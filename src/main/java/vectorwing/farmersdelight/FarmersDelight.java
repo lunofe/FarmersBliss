@@ -43,7 +43,6 @@ public class FarmersDelight
 		ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, Configuration.CLIENT_CONFIG);
 
 		ModParticleTypes.PARTICLE_TYPES.register(modEventBus);
-		ModEnchantments.ENCHANTMENTS.register(modEventBus);
 		ModItems.ITEMS.register(modEventBus);
 		ModBlocks.BLOCKS.register(modEventBus);
 		ModEffects.EFFECTS.register(modEventBus);
