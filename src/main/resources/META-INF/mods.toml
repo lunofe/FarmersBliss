@@ -1,20 +1,19 @@
 
 modLoader="javafml"
 loaderVersion="[36,)"
-issueTrackerURL="https://github.com/vectorwing/FarmersDelight/issues"
 license="MIT License"
 
 [[mods]]
 modId="farmersdelight"
 version="1.16.5-0.6.0"
-displayName="Farmer's Delight"
+displayName="Farmer's Bliss"
 # updateJSONURL=""
-displayURL="https://github.com/vectorwing/FarmersDelight"
+displayURL="https://github.com/lunofe/FarmersBliss"
 logoFile="logo.png"
 logoBlur=false
 credits="Chloe Dawn, Grimmauld, ConductiveFoam, simibubi, Jozufozu, bagel, Silk, SkySom, Eutro and many others!"
 authors="vectorwing"
-description="A lightweight farming and cooking expansion for Minecraft!"
+description="A fork of Farmer's Delight, made for Vampirism.co"
 itemIcon="farmersdelight:stove"
 configBackground="minecraft:textures/block/bricks.png"
 

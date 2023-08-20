@@ -1,24 +1,16 @@
-# Farmer's Delight
+# Warning
+- This is a customised version of [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight), made for [Vampirism.co](https://vampirism.co)
+- Do not use this version for your own modpacks
+- No active development is being done on this fork
+- Questions, issues, and PRs will not be answered or merged
+- Do not report issues with this version to the original Farmer's Delight team
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight">
-  <img src="http://cf.way2muchnoise.eu/full_farmers-delight_downloads.svg" alt="Curseforge Downloads">
-</a>
-<a href="https://discord.gg/eFsz5SK">
-  <img alt="Discord" src="https://img.shields.io/discord/734511833947439156?color=brightgreen&label=Discord">
-</a>
-<br>
-<img src="https://i.imgur.com/aDELzhM.png" width="50%">
-
-### Overview
+![](https://files.vampirism.co/divider.png)
 
 Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft.
 
-Using a collection of rustic tools and workstations, you can improve upon the foundation of your farm plots, prepare an assortment of healthy meals and snacks for you and your pets, and even equip yourself a bit better for adventuring across the land.
+Using a simple cooking system and a few familiar ingredients, you'll be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!
 
-This mod focuses on giving more purpose to items often forgotten or overlooked by players (such as milk, mushrooms, beetroots etc). Hopefully this will encourage you to farm a little bit of everything!
+It also introduces a rich set of utilities: a way to improve the very soil your crops grow in, a brand new kind of tool to scavenge resources with, cute decorations for your builds, and many blocks and items to help you on your adventure!
 
-### Contributing
-
-Thank you for visiting the repository! If you'd like to contribute with the mod, feel free to check the wiki for more details, or take a look at the issues page!
-
-I am open to constructive feedback about the mod's code: if you spot any glaring mistakes in my code, and/or you know a better way to accomplish something, feel free to open an issue/PR about it. Any help is appreciated!
+It's time to farm a little bit of everything!
