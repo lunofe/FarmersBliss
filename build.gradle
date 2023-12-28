@@ -98,9 +98,8 @@ minecraft {
 
 repositories {
     maven {
-        // JEI
-        name = "Progwml6 maven"
-        url = "https://dvs1.progwml6.com/files/maven/"
+        name = "ModMaven central"
+        url = "https://modmaven.dev/"
     }
     maven {
         // CraftTweaker
